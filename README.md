@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-Hand_Landmarks-00BFA5" />
+  <a href="https://github.com/shaiksadik1725-droid/arabic-sensor-Glove/actions/workflows/python-syntax.yml"><img src="https://github.com/shaiksadik1725-droid/arabic-sensor-Glove/actions/workflows/python-syntax.yml/badge.svg" alt="Python syntax check" /></a>
 </p>
 
 ## Project at a Glance
